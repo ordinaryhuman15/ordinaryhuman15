@@ -1,6 +1,6 @@
-## Hi there 👋
+Hi there 👋
 
-<!# 💫 About Me:
+💫 About Me:
 ✨ Building things that live on the internet...<br>Hello! I’m Rishi. My journey into software engineering started with a "Hello World" and turned into an obsession with creating digital experiences that matter.<br><br>I don't just write code; I build solutions that bridge the gap between imagination and reality. When I'm not pushing commits, you'll find me playing Table Tennis.
 
 
