@@ -17,5 +17,5 @@ Hi there 👋
 ---
 [![](https://visitcount.itsvg.in/api?id=ordinaryhuman15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?ordinaryhuman15&color=blue)
 
