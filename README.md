@@ -27,6 +27,10 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250">
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ordinaryhuman15&icon=0&color=0)](https://visitcount.itsvg.in)
 
