@@ -22,3 +22,4 @@ Hi there 👋
 
 ![](https://komarev.com/ghpvc/?ordinaryhuman15&color=blue)
 
+![Snake animation](https://github.com/ordinaryhuman15/ordinaryhuman15/blob/output/github-snake.svg)
